@@ -1,0 +1,3 @@
+requests
+proxyscrape
+pyqt5
