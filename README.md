@@ -4,6 +4,7 @@ How to install ?
 
 ```bash
 git clone https://github.com/Kugge/EcosiaBot-MultiThreaded.git
+cd EcosiaBot-MultiThreaded
 pip install -r requirements.txt
 python3 EcosiaBot.py
 ```
