@@ -1,7 +1,11 @@
 # EcosiaBot-MultiThreaded
-A MultiThreaded Ecosia Bot using proxies and intelligent search. Be safe. Be Happy.  
-How to install ?
+A MultiThreaded Ecosia Bot using proxies and intelligent search.
 
+## Example
+![Example pic](https://github.com/Kugge/EcosiaBot-Utilities/blob/master/Example.PNG?raw=true)
+
+
+## How to install ?
 ```bash
 git clone https://github.com/Kugge/EcosiaBot-MultiThreaded.git
 cd EcosiaBot-MultiThreaded
